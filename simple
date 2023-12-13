@@ -2,5 +2,8 @@
 int main(){
 int a=10;
 printf("%d",&a);
-return0;
+int x;
+scanf("%d",&x);
+
+return 0;
 }
